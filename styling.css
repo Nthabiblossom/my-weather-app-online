@@ -1,0 +1,32 @@
+.container {
+  flex: auto;
+  height: 600px;
+  width: 900px;
+  margin-top: 20px;
+}
+form {
+  text-align: center;
+}
+
+.currentCity {
+  font-size: 60px;
+  font-weight: 500;
+}
+.currentTemperature {
+  font-size: 60px;
+  font-weight: 500;
+}
+.icon {
+  font-size: 50px;
+}
+
+.col {
+  display: block;
+  margin: auto;
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+}
+.max {
+  font-weight: 700;
+}
